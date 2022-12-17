@@ -5,7 +5,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Links
 <ul>
-  <li>Live Site URL : <a href="https://0xabdul.github.io/NFT-preview-card-component/">Click Here></a></li><br>
+  <li>Live Site URL : <a href="https://0xabdul.github.io/NFT-preview-card-component/">Click Here</a></li><br>
   <li>Soution URL : <a href="https://www.frontendmentor.io/solutions/nft-preview-card-component-fKo8PP6Qkf">Click Here</a></li>
       </ul><br>
 
