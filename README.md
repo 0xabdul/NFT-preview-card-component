@@ -24,7 +24,7 @@ Your users should be able to:
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.<br>
 ## My Soulution
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/NFT-preview-card-component/">Click Here</a></li>
+<li>Live Site URL: <a href="">Click Here</a></li>
 </ul>
 
 
